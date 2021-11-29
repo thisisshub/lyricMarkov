@@ -1,0 +1,1 @@
+A small flask app that uses an artist or band's lyrics to generate new similar-sounding lyrics based on probabilities. It uses Markov Chain to create a sequence of possible events.
